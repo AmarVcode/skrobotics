@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=project
+Comment=Open '/home/amar/Downloads/project'
+Icon=inode-directory
+Name[en_IN]=project
+Comment[en_IN]=Open '/home/amar/Downloads/project'
+Icon[en_IN]=inode-directory
+URL=file:///home/amar/Downloads/project
+Type=Link

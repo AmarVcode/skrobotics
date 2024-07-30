@@ -1,0 +1,1 @@
+[09-Dec-2023 10:36:20 UTC] PHP Warning:  The magic method Nextend\Framework\Pattern\SingletonTrait::__wakeup() must have public visibility in /home3/shamorfc/public_html/skrobotics.in/2/wp-content/plugins/smart-slider-3/Nextend/Framework/Pattern/SingletonTrait.php on line 22

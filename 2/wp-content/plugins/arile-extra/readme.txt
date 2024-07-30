@@ -1,0 +1,52 @@
+=== Arile Extra ===
+Contributors: ThemeArile
+Tags: projects, widgets, admin, companion, homepage
+Requires at least: 3.3+
+Tested up to: 5.4
+Stable tag: 2.0
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+Arile Extra is a companion plugin for ArileWP WordPress theme by ThemeArile.
+
+== Description ==
+
+This Arile Extra plugin is created for ThemeArile. This plugin provides beautiful additional frontpage sections for ThemeArile. And it will allow you full customizer settings to your front page sections. The plugin options are user-friendly and You can use this plugin for every ThemeArile theme.
+
+== Changelog ==
+
+= 2.0 =
+* Added support for the child theme.
+
+= 1.9 =
+* Update the images of slider in StrangerWP theme.
+
+= 1.8 =
+* Added InteriorPress theme support.
+
+= 1.7 =
+* Fixed issue for StrangerWP child theme.
+
+= 1.6 =
+* Added NewYork City theme support. 
+
+= 1.5 =
+* Added StrangerWP theme support. 
+
+= 1.4 =
+* Added slider and testimonial overlay Enable/Disable setting. 
+
+= 1.3 =
+* Fixed issue.
+
+= 1.2 =
+* Added second slide support.
+
+= 1.1 =
+* Added Business Street Support.
+
+= 1.0 =
+* Update Slider Image.
+
+= 0.1 =
+* Initial Upload.

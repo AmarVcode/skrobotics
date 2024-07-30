@@ -1,0 +1,716 @@
+body {
+    overflow-x: hidden;
+    width: 100%; }
+  
+html,body{
+  font-size: 19px;
+}
+
+  * {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+  
+  .fixoff {
+    opacity: 60%;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0; }
+    .fixoff img {
+      width: 7rem; }
+  
+  .whatsapp {
+    position: fixed;
+    box-sizing: content-box;
+    bottom: 0vh;
+    color: white;
+    overflow: hidden;
+    z-index: 1000;
+    width:fit-content ;
+  right: 0;}
+    .whatsapp img {
+      width: 6rem; }
+  
+  .downarrow svg {
+    width: .7rem; }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+    .logo img {
+      width: 5rem; }
+  
+  header {
+    position: sticky;
+    top: 0px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 20% 80%;
+    width: 100%;
+    box-shadow: 0px 0px 10px black;
+    background-color: white;
+    padding-top: 0 !important;
+    z-index: 500; }
+    header nav {
+      float: right;
+      text-align: right;
+      display: flex;
+      /* margin-top: -13px; */
+
+      align-items: center; }
+      nav{
+        background-color: white !important;
+      }
+      header nav > div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    padding-top: 0 !important; }
+        header nav > div .show {
+          transform-origin: top;
+          position: absolute;
+          display: flex;
+          flex-direction: column;
+          background-color: white;
+          top: 70px;
+          transform: scale(1, 0);
+          transition: 500ms; }
+          header nav > div .show div {
+            display: block; }
+          header nav > div .show a {
+            width: 100%;
+            display: block; }
+        header nav > div a {
+          font-size: 1rem;
+          text-decoration: none;
+          padding: 1em;
+          color: black;
+          white-space: nowrap;
+          transition: 500ms; }
+
+header svg{
+  fill: black !important;
+}
+
+          header a:hover{
+color: red !important;
+          }
+          header nav > div a svg {
+            fill: white;
+            transition: 500ms; }
+        header nav > div a:hover {
+          background-color: white;
+          color: purple; }
+          header nav > div a:hover svg {
+            fill: red; }
+      header nav > div:hover .show {
+        transform: scale(1, 1); }
+
+       
+        
+        .show a {
+          padding: 1em 3em;
+    font-size: .9rem;
+    border-bottom: 1px solid grey;
+    text-align:right;
+}
+
+
+.show a :hover{
+    background-color: rgba(0, 0, 0, 0.664) !important;
+    border: none;
+    
+}
+  .menu {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px;
+    box-sizing: content-box;
+    cursor: pointer; }
+    .menu svg {
+      width: 4rem;
+      padding: 1.1em;
+      fill: black; }
+  
+  .Scontainer {
+    width: 100%;
+    overflow: hidden; }
+    .Scontainer h4 {
+      text-transform: uppercase;
+      color: #550065;
+      font-size: 1.6rem;
+      margin: 1.2em; }
+    .Scontainer a {
+      font-weight: 600;
+      text-decoration: none;
+      font-size: 1.3rem;
+      margin: 1em; }
+    .Scontainer .slides {
+      display: grid;
+      grid-template-columns: 100% 100%;
+      transition: 1s;
+      height: 60vh !important;
+      cursor: pointer;
+      width: 100% !important; }
+      .Scontainer .slides div {
+        width: 100%;
+        background-color: white;
+        overflow: hidden;
+        display: flex;
+        background-color: rgba(0, 0, 0, 0.425); }
+        .Scontainer .slides div p {
+          margin: 1em;
+          font-weight: 600;
+          font-size: 1.2rem; }
+        .Scontainer .slides div h2 {
+          font-size: 2rem; }
+  
+  .pflex {
+    border-left: 3px solid purple;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    color: white; }
+    .pflex h2 {
+      font-weight: 500 !important;
+      font-size: 2rem !important; }
+    .pflex p {
+      font-weight: 500 !important; }
+    .pflex a {
+      background-color: purple;
+      border: 2px solid purple;
+      color: white;
+      border-radius: 20px;
+      padding: 1em 3em;
+      transition: 500ms; }
+    .pflex a:hover {
+      background-color: transparent;
+      color: purple; }
+  
+  .slidebtn {
+    display: flex;
+    gap: 40px;
+    margin: 1em; }
+    .slidebtn div:nth-child(1) {
+      opacity: 30%; }
+    .slidebtn div {
+      border-radius: 50%;
+      border: 2px solid purple;
+      cursor: pointer; }
+      .slidebtn div svg {
+        width: 1rem;
+        fill: purple;
+        padding: 1em;
+        box-sizing: content-box; }
+  
+  .exception {
+    width: 100%;
+    background-color: #000f2c;
+    color: white !important; }
+    .exception h4 {
+      color: white !important; }
+    .exception svg {
+      fill: #0088e7 !important; }
+    .exception .slides {
+      background-color: transparent; }
+      .exception .slides div {
+        background-color: transparent; }
+    .exception .slidebtn div {
+      border-color: #0088e7 !important; }
+  .exception img{
+    width: 100% !important;
+  }
+  .box {
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around;
+    margin: auto; }
+    .box > div {
+    
+      margin: 1em;
+      padding: 1em;
+      max-width: 100%;
+      border-radius: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      transition: 500ms;
+      color: red;
+      cursor: pointer; }
+      .box > div svg {
+        box-sizing: content-box;
+        border-radius: 50%;
+        padding: 2em;
+        background-color: red;
+        fill: white;
+        width: 3rem;
+        transition: 500ms; }
+    .box > div:hover {
+      border-color: black;
+      color: black; }
+      .box > div:hover svg {
+        background-color: black; }
+  
+  .container {
+    max-width: 1000px;
+    padding: 1em;
+    text-align: center;
+    margin: auto; }
+    .container h1 {
+      font-size: 2rem;
+      color: red; }
+    .container p {
+      font-size: 1rem;
+      /* line-height: 40px;*/} 
+  
+.imgdiv{
+height: 300px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.imgdiv img{
+    height: 100%;
+    margin: auto;
+}
+
+  .box2 {
+    max-width: 1000px;
+    cursor: pointer;
+    overflow: auto;
+    margin: auto; }
+    .box2>div {
+        display: grid !important;
+        grid-template-columns: 50% 50% !important;
+      margin: 1em;
+      padding: 1em;
+      justify-content: center;
+      align-items: center;
+      text-align: center; }
+
+  
+  .recent {
+    max-width: 1000px;
+    margin: auto;
+    background-color: #f3f8fe !important;
+    text-align: center;
+    
+    padding: 1em; }
+    .recent .box3 {
+      display: grid;
+      grid-template-columns: 25% 25% 25% 25%; }
+      .recent .box3 div {
+        border: 2px solid purple;
+        overflow: hidden;
+        border-radius: 10px;
+        margin: 1em;
+        transition: 500ms; }
+      .recent .box3 div:hover {
+        background-color: purple;
+        color: white; }
+      .recent .box3 img {
+        width: 100%; }
+  
+  .test {
+    max-width: 1000px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.35);
+    padding: 1em;
+    text-align: center;
+    font-weight: normal !important; }
+    .test .box4 {
+      display: grid;
+      grid-template-columns: 50% 50%; }
+      .test .box4 div {
+        background-color: white;
+        transform: scale(0.9);
+        padding: 1em; }
+        .test .box4 div p {
+          color: grey;
+          line-height: 40px; }
+      .test .box4 img {
+        width: 100%; }
+      .test .box4 .round {
+        width: 100px;
+        border-radius: 50%;
+        margin: 1em; }
+  
+  footer h2 {
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 500; }
+  footer .last {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    background-color: midnightblue;
+    color: white; }
+    footer .last div {
+      margin: 20px;
+      padding: 2em; }
+      footer .last div p {
+        font-size: 1rem; }
+  
+        footer img{
+          width: 100%;
+        }
+  .formcontainer {
+    max-width: 800px;
+    margin: auto;
+    border: 3px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 1em;
+    background-color: black;
+    color: white;
+    text-align: left; }
+    .formcontainer label {
+      float: left; }
+    .formcontainer input {
+      border: 2px solid black !important; }
+    .formcontainer input[type=text], .formcontainer select, .formcontainer textarea {
+      width: 100%;
+      padding: 12px;
+      border: 2px solid black;
+      border-radius: 4px;
+      box-sizing: border-box;
+      margin-top: 6px;
+      margin-bottom: 16px;
+      resize: vertical; }
+    .formcontainer #btnsub {
+      padding: 1em 3em ;
+      transition: 500ms;
+      border-radius: 10px;
+      border: none !important;
+      color: white;
+      background-color: green;
+      transition: 500ms; }
+    .formcontainer .container {
+      border-radius: 5px;
+      background-color: #f2f2f2;
+      padding: 20px;
+      border: 2px solid purple; }
+  
+
+  
+  .who {
+    max-width: auto;
+    margin: 1em;
+    border-radius: 5px;
+    padding-top: 1em;
+    padding-bottom: 1em; }
+    .who h1, .who h2 {
+      text-align: center;
+      color: red; }
+    .who .info {
+      display: grid;
+      align-items: center;
+      justify-content: center;
+      margin: 1rem;
+      padding: 1em;
+      border-radius: 5px;
+      color: rgba(0, 0, 0, 0.6); }
+      .who .info img {
+        height: 300px;
+        margin: auto; }
+      .who .info p, .who .info li {
+        line-height: 40px; }
+      .who .info span {
+        font-weight: bold;
+        color: red; }
+        
+        
+        
+
+
+
+        
+        
+        .newbox{
+          display: grid;
+          grid-template-columns: 50% 50%;
+          
+        }
+        .newbox>div{
+          display: grid;
+          justify-content: center;
+          align-items: center;
+        }
+
+        .newbox h2{
+          width: fit-content;
+          text-align: left;
+          font-size: 1.5rem;
+          margin-bottom: 20px;
+          text-decoration: underline;
+        }
+
+        
+
+
+
+.exception{
+  height: 100%;
+  overflow: hidden;
+}
+.cards{
+  width: 100%;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  gap: 10px;
+}
+
+.cards img{
+  width: 100%;
+}
+
+
+
+
+
+
+
+        
+#carouselExampleAutoplaying{
+  overflow: hidden;
+  height: 100% !important;
+}
+
+#carouselExampleAutoplaying img{
+  width: 100% !important;
+  }
+
+  .exect{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.exect>img{
+  width: 50%;
+  height: auto !important;
+}
+
+
+.fitimg{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 80vh;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.5);
+  
+}
+
+.fitimg img{
+  min-height: 100%;
+  width: auto;
+}
+
+.fitimg{
+  height: 100vh !important;
+}
+
+.social-wrapper{
+  display: flex;
+  flex-direction: row !important;
+  flex-wrap: wrap;
+}
+
+
+@media (max-width: 800px) {
+.social-icon{
+  width: 2rem !important;
+}
+  .eximg{
+    position: relative;
+    top: -0px !important;
+  }
+  .show{
+    margin-top: -100px;
+  }
+  
+  .fitimg img{
+  height: 100vh !important;
+}
+
+.fitimg{
+height: 50vh !important;
+}
+html,body{
+    font-size: 13px;
+  }
+  .box2 img{
+    max-width: 500px;
+    max-height: 100%;
+  }
+  
+.imgdiv{
+width: 100%;
+height: 100%;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+.imgdiv img{
+width: 100%;
+}
+
+
+  .info img {
+    height: 150px !important; }
+
+  header {
+    padding: 1em; }
+
+  .slidebtn {
+    margin-top: 100px; }
+
+  .last {
+    grid-template-columns: 100% !important; }
+
+  .box4 {
+    grid-template-columns: 50% 50% !important; }
+
+  .box {
+    grid-template-columns: 100%; }
+
+  .menu {
+    display: block; }
+
+  #navbar {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 100%;
+    transform: scale(1, 0);
+    position: absolute !important;
+    background: purple;
+    top: 70px;
+    transition: 500ms;
+    transform-origin: top; }
+    #navbar a {
+      width: 100%; }
+
+  .show {
+    top: 200px !important;
+    width: 100%; }
+    .show a {
+      width: 100% !important; }
+
+  .aftermenu {
+    transform: scale(1, 1) !important; }
+
+  .slides {
+    display: grid;
+    grid-template-columns: 100% 100%;
+    transition: 1s;
+    height: 70vh !important;
+    cursor: pointer;
+    width: 100% !important; }
+    .slides div {
+      width: 100%;
+      background-color: white;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      background-color: rgba(0, 0, 0, 0.425); }
+      .slides div p {
+        margin: 1em;
+        font-weight: 600;
+        font-size: 1.2rem; }
+      .slides div h2 {
+        font-size: 2rem; }
+
+  .pflex {
+    position: absolute;
+    border-left: 3px solid purple;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    color: white; }
+    .pflex h2 {
+      font-weight: 500 !important;
+      font-size: 2rem !important; }
+    .pflex p {
+      font-weight: 500 !important; }
+    .pflex a {
+      background-color: purple;
+      border: 2px solid purple;
+      color: white;
+      border-radius: 20px;
+      padding: 1em 3em;
+      transition: 500ms; }
+    .pflex a:hover {
+      background-color: transparent;
+      color: purple; }
+
+  .whatsapp {
+    position: fixed;
+    background-color: limegreen;
+    color: white;
+    padding: .4em;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px !important;
+ }
+    .whatsapp a {
+      text-decoration: none;
+      color: white;
+      font-size: 1rem; }
+    .whatsapp svg {
+      fill: white;
+      width: 2rem; } }
+
+
+
+.eximg2{
+  margin: auto;
+  width: auto !important;
+  height: 100%;
+}
+
+.secondex{
+  width: fit-content;
+  margin: auto;
+}
+
+.eximg{
+  position: relative;
+  top: -150px;
+}
+
+
+.social{
+  max-width: 500px;
+  text-align: center;
+  padding: 1em;
+  color: red;
+  margin: auto;
+}
+
+
+
+.social-icon{
+  display: flex !important;
+  width: 1.5rem;
+  margin: 10px !important;
+  padding: 0 !important;
+}
+

@@ -1,0 +1,442 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Arile Extra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-21 11:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-4.9.12"
+
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:102
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:118
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:134
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:155
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:167
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:179
+msgid ""
+"\"You guys are legendary! You guys are great and having amazing support & "
+"service. I couldn’t ask for any better. Thank you!\""
+msgstr ""
+
+#: inc/arilewp/front-page/extra-arilewp-siteinfo.php:46
+msgid "014 1547 925 - 123 4567 890"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:60
+#: inc/arilewp/front-page/extra-arilewp-siteinfo.php:55
+msgid "18 years of experience"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:53
+#: inc/arilewp/front-page/extra-arilewp-siteinfo.php:45
+msgid "24/7 Support"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:288
+#: inc/arilewp/front-page/extra-arilewp-blog.php:4
+msgid "<b>Our Latest</b> News"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:225
+#: inc/arilewp/front-page/extra-arilewp-project.php:6
+msgid "<b>Recent</b> Projects"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:193
+#: inc/arilewp/front-page/extra-arilewp-service.php:5
+msgid "<b>We provide the</b> best services"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:257
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:5
+msgid "<b>What clients</b>  are say"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:108
+msgid "Add new project item"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:82
+msgid "Add new service item"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:35
+msgid "Add new slide item"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:131
+msgid "Add new testimonial item"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:59
+msgid "Add new theme info"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:137
+#: inc/arilewp/front-page/extra-arilewp-project.php:87
+msgid "App Development"
+msgstr ""
+
+#. Name of the plugin
+msgid "Arile Extra"
+msgstr ""
+
+#. Description of the plugin
+msgid "Arile Extra Enhances ThemeArile with additional functionality."
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:146
+msgid "Background Image"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:24
+#: inc/arilewp/front-page/extra-arilewp-slider.php:76
+msgid "Best Digital Marketing Solutions"
+msgstr ""
+
+#: inc/arile-extra-activator.php:19
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:154
+msgid "Blog"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-blog-customizer-settings.php:42
+msgid "Blog Enable/Disable"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-blog-customizer-settings.php:55
+msgid "Blog Meta Enable/Disable"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-blog-customizer-settings.php:28
+msgid "Blog Options"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:131
+#: inc/arilewp/front-page/extra-arilewp-project.php:76
+msgid "Business Consulting"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:125
+#: inc/arilewp/front-page/extra-arilewp-project.php:65
+msgid "Business Resource"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:126
+#: inc/arilewp/front-page/extra-arilewp-project.php:66
+msgid "Business Solutions"
+msgstr ""
+
+#: inc/arilewp/front-page/extra-arilewp-blog.php:63
+msgid "by "
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:17
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:26
+#: inc/arilewp/front-page/extra-arilewp-slider.php:63
+#: inc/arilewp/front-page/extra-arilewp-slider.php:79
+msgid "Check it out"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:161
+msgid "Choose Blog Category"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:132
+#: inc/arilewp/front-page/extra-arilewp-project.php:77
+msgid "Consultant"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-blog-customizer-settings.php:72
+#: inc/arilewp/customizer/sections/extra-arilewp-project-customizer-settings.php:58
+msgid "Container"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-blog-customizer-settings.php:73
+#: inc/arilewp/customizer/sections/extra-arilewp-project-customizer-settings.php:59
+msgid "Container Full"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-blog-customizer-settings.php:69
+#: inc/arilewp/customizer/sections/extra-arilewp-project-customizer-settings.php:55
+msgid "Container Width"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:144
+#: inc/arilewp/front-page/extra-arilewp-project.php:99
+msgid "Digital Marketing"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:171
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:126
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:169
+msgid "Financer"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:164
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:110
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:157
+msgid "Founder"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:19
+msgid "Frontpage Sections"
+msgstr ""
+
+#: inc/arile-extra-activator.php:19
+msgid "Home"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themearile.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themearile.com/arilewp/"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-theme-info-customizer-settings.php:53
+msgid "Info"
+msgstr ""
+
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:141
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:180
+msgid "Julia Cloe"
+msgstr ""
+
+#: inc/arilewp/front-page/extra-arilewp-service.php:100
+#: inc/arilewp/front-page/extra-arilewp-service.php:111
+#: inc/arilewp/front-page/extra-arilewp-service.php:122
+msgid ""
+"Lorem Ipsum is simply text of the printing and typesetting industry. Lorem "
+"ipsum has been dummy."
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:24
+msgid "Main Slider"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:143
+#: inc/arilewp/front-page/extra-arilewp-project.php:98
+msgid "Marketing Strategy"
+msgstr ""
+
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:125
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:168
+msgid "Mitchell Harris"
+msgstr ""
+
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:109
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:156
+msgid "Olivia Kevinson"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:138
+#: inc/arilewp/front-page/extra-arilewp-project.php:88
+msgid "Online Store"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:210
+#: inc/arilewp/front-page/extra-arilewp-project.php:5
+msgid "Our Portfolio"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:179
+#: inc/arilewp/front-page/extra-arilewp-service.php:4
+msgid "Our Services"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:81
+#: inc/arilewp/front-page/extra-arilewp-service.php:99
+msgid "Pixel Perfect Design"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:96
+#: inc/arilewp/customizer/sections/extra-arilewp-project-customizer-settings.php:69
+msgid "Project"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-project-customizer-settings.php:41
+msgid "Project Enable/Disable"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:109
+msgid "Project Item"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:105
+msgid "Project Items Content"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-project-customizer-settings.php:28
+msgid "Project Options"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:83
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:93
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:103
+#: inc/arilewp/front-page/extra-arilewp-blog.php:74
+msgid "Read More"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:274
+#: inc/arilewp/front-page/extra-arilewp-blog.php:3
+msgid "Recent Updates"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:178
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:142
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:181
+msgid "Sales Manager"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:101
+#: inc/arilewp/front-page/extra-arilewp-service.php:121
+msgid "Satisfied Clients"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:199
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:231
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:263
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:294
+msgid "Section Description"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:185
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:216
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:248
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:280
+msgid "Section Title"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:70
+msgid "Service"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-service-customizer-settings.php:43
+msgid "Service Enable/Disable"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:83
+msgid "Service Item"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:79
+msgid "Service Items Content"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-service-customizer-settings.php:30
+msgid "Service Options"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:36
+msgid "Slide Item"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-slider-customizer-settings.php:42
+msgid "Slider Enable/Disable"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:33
+msgid "Slider Items Content"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-slider-customizer-settings.php:28
+msgid "Slider Options"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-slider-customizer-settings.php:52
+msgid "Slides"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:119
+#: inc/arilewp/customizer/sections/extra-arilewp-testimonial-customizer-settings.php:51
+msgid "Testimonial"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-testimonial-customizer-settings.php:41
+msgid "Testimonial Enable/Disable"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:132
+msgid "Testimonial Item"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:129
+msgid "Testimonial Items Content"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-testimonial-customizer-settings.php:28
+msgid "Testimonial Options"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:242
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:4
+msgid "Testimonials"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:60
+msgid "Theme Info"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:48
+msgid "Theme Info Area"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-theme-info-customizer-settings.php:42
+msgid "Theme Info Area Enable/Disable"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-theme-info-customizer-settings.php:29
+msgid "Theme Info Area Options"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:57
+msgid "Theme Info Content"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeArile"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:47
+#: inc/arilewp/front-page/extra-arilewp-siteinfo.php:36
+msgid "Trusted Services"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:48
+#: inc/arilewp/front-page/extra-arilewp-siteinfo.php:37
+msgid "We are trusted our customers"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:16
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:25
+#: inc/arilewp/front-page/extra-arilewp-slider.php:61
+#: inc/arilewp/front-page/extra-arilewp-slider.php:77
+msgid ""
+"We are very happy to present to you ArileWP, the powerful and flexible multi-"
+"purpose WordPress theme. Not only does ArileWP outstand with many new "
+"features but suitable for all creatives and businesses. Join 2500+ customers."
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:15
+#: inc/arilewp/front-page/extra-arilewp-slider.php:60
+msgid "We Create Amazing WordPress Themes"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:59
+#: inc/arilewp/front-page/extra-arilewp-siteinfo.php:54
+msgid "Well Experienced"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:91
+#: inc/arilewp/front-page/extra-arilewp-service.php:110
+msgid "WooCommerce Ready"
+msgstr ""
